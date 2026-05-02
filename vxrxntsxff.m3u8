@@ -103,3 +103,7 @@ http://be7b2975.kazaktelekom.com/iptv/8GZZTZ8XQFZG4X/19414/index.m3u8
 # --- Симпсоны ---
 #EXTINF:-1 tvg-id="Simpsons.ru" tvg-name="Симпсоны" tvg-logo="https://iptvx.one/picons/simpsons.png" group-title="Развлечения",Симпсоны FHD
 http://be7b2975.kazaktelekom.com/iptv/8GZZTZ8XQFZG4X/15111/index.m3u8
+
+# --- Южный Парк ---
+#EXTINF:-1 tvg-id="SouthPark.ru" tvg-name="Южный Парк" tvg-logo="https://iptvx.one/picons/southpark.png" group-title="Развлечения",Южный Парк FHD
+http://be7b2975.kazaktelekom.com/iptv/8GZZTZ8XQFZG4X/16053/index.m3u8
