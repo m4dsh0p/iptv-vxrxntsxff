@@ -2,7 +2,7 @@
 
 # --- Пятница! ---
 #EXTINF:-1 tvg-name="Пятница!" group-title="Развлечения",Пятница! HD
-https://stream.yandex.ru/kal/pyatnitsa/pyatnitsa.m3u8
+http://tchaikovsky.af-stream.com:8080/s/agvha3rn/piatnica-hd/video.m3u8
 
 # --- 2x2 ---
 #EXTINF:-1 tvg-name="2x2" group-title="Развлечения",2x2 HD
@@ -45,8 +45,8 @@ http://tv.woobl.ru:9090/channel/2350f52f/index.m3u8?q=054a8d5e360233783eb42f6912
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 
 # --- КХЛ ---
-#EXTINF:-1 tvg-name="КХЛ" group-title="Спорт",КХЛ HD
-https://khl-tv.akamaized.net/hls/live/2004645/KHL/master.m3u8
+#EXTINF:-1 tvg-id="KHLPrime.ru" tvg-logo="https://i.imgur.com/pwxT0ON.png" tvg-name="KHL Prime" group-title="Спорт",KHL Prime [1920x1080@25]
+http://tmptv.sunduk.tv/CH293/index.m3u8
 
 # --- Матч! ---
 #EXTINF:-1 tvg-name="Матч!" group-title="Спорт",Матч! HD
