@@ -97,5 +97,5 @@ http://185.234.59.200:9090/channel/3c4b5f0a/index.m3u8?q=054a8d5e360233783eb42f6
 http://185.234.59.200:9090/channel/75b2c293/index.m3u8?q=054a8d5e360233783eb42f6912745209
 
 # --- Гриффины ---
-#EXTINF:-1 tvg-id="FamilyGuy.ru" tvg-name="Гриффины" group-title="Развлечения" ,Family Guy HD
-http://u9trto3l.siauliairsavlt.org/iptv/ZPDAH86M8U3YGRC8WC6A855Q/19414/index.m3u
+#EXTINF:-1 tvg-id="FamilyGuy.ru" tvg-name="Гриффины" tvg-logo="https://iptvx.one/picons/griffiny.png" group-title="Развлечения",Гриффины HD
+http://be7b2975.kazaktelekom.com/iptv/8GZZTZ8XQFZG4X/19414/index.m3u8
