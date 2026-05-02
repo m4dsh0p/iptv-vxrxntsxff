@@ -1,7 +1,7 @@
 #EXTM3U
 
 # --- Пятница! ---
-#EXTINF:-1 tvg-name="Pyatnitsa" group-title="Развлечения" http-referrer="https://rutube.ru/,Пятница! HD
+#EXTINF:-1 tvg-name="Pyatnitsa" group-title="Развлечения" http-referrer="https://rutube.ru/",Пятница! HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 TV Safari/537.36
 https://salam-kem-88.rtbcdn.ru/dive/river-6-604.rtbcdn.ru/fHb1tnYaY3A9meDJW0qrfQ/stream/genetta-302.m9.rutube.ru/o3TywfBiGMMxapeOUblraQ/1778222069/d90aa86cc5b1d4a7b310c85debcee474/1080p_stream.m3u8
 
@@ -10,7 +10,7 @@ https://salam-kem-88.rtbcdn.ru/dive/river-6-604.rtbcdn.ru/fHb1tnYaY3A9meDJW0qrfQ
 https://salam-kem-88.rtbcdn.ru/dive/river-6-605.rtbcdn.ru/GULI2rMhDI13cLNDA7hwKA/stream/genetta-321.m9.rutube.ru/dzie6WGnTtRvAgv-H657-g/1778222779/3d049e88a9b8dc64f4654d712e252d2c/1080p_stream.m3u8
 
 # --- Первый канал ---
-#EXTINF:-1 tvg-name="Первый канал" group-title="Федеральные" http-referrer="https://www.1tv.ru/,Первый канал HD
+#EXTINF:-1 tvg-name="Первый канал" group-title="Федеральные" http-referrer="https://www.1tv.ru/",Первый канал HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 TV Safari/537.36
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 
@@ -19,7 +19,7 @@ https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 http://s1.merlive.am/CartoonNetwork/index.m3u8
 
 # --- ТНТ ---
-#EXTINF:-1 tvg-name="ТНТ" group-title="Развлечения" http-referrer="https://rutube.ru/,ТНТ HD
+#EXTINF:-1 tvg-name="ТНТ" group-title="Развлечения" http-referrer="https://rutube.ru/",ТНТ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 TV Safari/537.36
 https://bl.rutube.ru/livestream/f02b63bc8f0ed4dba04bbfce4a1119c5/index.m3u8?s=wxSxcT9LBxYExfoVNUYixA&e=2077666113&scheme=https
 
