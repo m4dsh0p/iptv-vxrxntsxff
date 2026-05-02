@@ -1,0 +1,118 @@
+#EXTM3U
+
+# --- Пятница! ---
+#EXTINF:-1 tvg-name="Pyatnitsa" group-title="Развлечения" http-referrer="https://rutube.ru/,Пятница! HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 TV Safari/537.36
+https://salam-kem-88.rtbcdn.ru/dive/river-6-604.rtbcdn.ru/fHb1tnYaY3A9meDJW0qrfQ/stream/genetta-302.m9.rutube.ru/o3TywfBiGMMxapeOUblraQ/1778222069/d90aa86cc5b1d4a7b310c85debcee474/1080p_stream.m3u8
+
+# --- 2x2 ---
+#EXTINF:-1 tvg-name="2x2" group-title="Развлечения",2x2 HD
+https://salam-kem-88.rtbcdn.ru/dive/river-6-605.rtbcdn.ru/GULI2rMhDI13cLNDA7hwKA/stream/genetta-321.m9.rutube.ru/dzie6WGnTtRvAgv-H657-g/1778222779/3d049e88a9b8dc64f4654d712e252d2c/1080p_stream.m3u8
+
+# --- Первый канал ---
+#EXTINF:-1 tvg-name="Первый канал" group-title="Федеральные" http-referrer="https://www.1tv.ru/,Первый канал HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 TV Safari/537.36
+https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+
+# --- Cartoon Network ---
+#EXTINF:-1 tvg-name="Cartoon Network" group-title="Развлечения",Cartoon Network HD
+http://s1.merlive.am/CartoonNetwork/index.m3u8
+
+# --- ТНТ ---
+#EXTINF:-1 tvg-name="ТНТ" group-title="Развлечения" http-referrer="https://rutube.ru/,ТНТ HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 TV Safari/537.36
+https://bl.rutube.ru/livestream/f02b63bc8f0ed4dba04bbfce4a1119c5/index.m3u8?s=wxSxcT9LBxYExfoVNUYixA&e=2077666113&scheme=https
+
+# --- Телеканал Ю ---
+#EXTINF:-1 tvg-id="yu" tvg-logo="https://iptvx.one/picons/yu.png" group-title="Развлечения" ,Ю HD
+http://river-1.rutube.ru/stream/genetta-319.m9.rutube.ru/dbp4Z9n0SIVVafOwdp_osQ/1778232903/5c9327074e25ca86f3111d4085cbbb65/720p_stream.m3u8
+
+# --- Nickelodeon ---
+#EXTINF:-1 tvg-id="Nickelodeon.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/512px-Nickelodeon_2009_logo.svg.png" tvg-name="Nickelodeon Россия" group-title="Детский",Nickelodeon [720x576@25]
+#EXTVLCOPT:http-user-agent=Donate BTC 1MJox7hyXrXNqr1h4BpihqzHiz7Qy9hqZS
+http://tmptv.sunduk.tv/CH37/index.m3u8
+
+# --- JTX Online ---
+#EXTINF:-1 tvg-name="JTX Online" group-title="Детские",JTX Online [1280x720@25]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 TV Safari/537.36
+https://live.jtx-online.ru/memfs/e30ea533-4abf-4a88-91bc-73744ecfd06f.m3u8
+
+# --- Кухня ---
+#EXTINF:-1 tvg-name="VF Кухня" group-title="Развлечения",Кухня [1920x1080@24]
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://tv.woobl.ru:9090/channel/1bd1532a/index.m3u8?q=054a8d5e360233783eb42f6912745209
+
+# --- Скуби - Ду ---
+#EXTINF:-1 tvg-name="VF Скуби-Ду" group-title="Детские",Скуби-Ду [1920x1080@24]
+#EXTVLCOPT:http-user-agent=Donate BTC 1MJox7hyXrXNqr1h4BpihqzHiz7Qy9hqZS
+http://tv.woobl.ru:9090/channel/2350f52f/index.m3u8?q=054a8d5e360233783eb42f6912745209
+
+# --- Чип и Дейл ---
+#EXTINF:-1 tvg-name="Чип и Дейл" group-title="Детские",Чип и Дейл [1440x1080@24]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
+
+# --- KHL ---
+#EXTINF:-1 tvg-id="KHL.ru" tvg-logo="https://i.imgur.com/RgdHdOV.png" tvg-name="КХЛ" group-title="Спорт",KHL [1280x720@50]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://31.148.48.15/KHL_TV/index.m3u8
+
+# --- Okko Прайм Спорт ---
+#EXTINF:-1 tvg-name="Okko Прайм Спорт" group-title="Спорт",Okko Прайм Спорт [1920x1080@50]
+#EXTVLCOPT:http-user-agent=Donate BTC 1MJox7hyXrXNqr1h4BpihqzHiz7Qy9hqZS
+http://tv.woobl.ru/okko_praym_sport_hd/video.m3u8?token=test3445
+
+# --- Матч! ---
+#EXTINF:-1 tvg-id="Match.ru" tvg-logo="https://i.imgur.com/iKZvKyP.png" tvg-name="Матч!" group-title="Спорт",Матч! [1920x1080@25]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
+
+# --- Матч! Премьер ---
+#EXTINF:-1 tvg-id="MatchPremier.ru" tvg-logo="https://i.imgur.com/GQPyHYK.png" tvg-name="Матч! Премьер" group-title="Спорт",Матч! Премьер [1920x1080@25]
+#EXTVLCOPT:http-user-agent=Donate BTC 1MJox7hyXrXNqr1h4BpihqzHiz7Qy9hqZS
+http://tv.woobl.ru/match_premier_hd/video.m3u8?token=test3445
+
+# --- Матч! Футбол 1 ---
+#EXTINF:-1 tvg-id="MatchFutbol1.ru" tvg-logo="https://i.imgur.com/XS2BB02.png" tvg-name="Матч! Футбол 1" group-title="Спорт",Матч! Футбол 1 [1920x1080@25]
+#EXTVLCOPT:http-user-agent=Donate BTC 1MJox7hyXrXNqr1h4BpihqzHiz7Qy9hqZS
+http://tv.woobl.ru/match_futbol_1_hd/video.m3u8?token=test3445
+
+# --- Матч! Футбол 2 ---
+#EXTINF:-1 tvg-id="MatchFutbol2.ru" tvg-logo="https://i.imgur.com/WhdGfSo.png" tvg-name="Матч! Футбол 2" group-title="Спорт",Матч! Футбол 2 [1920x1080@25]
+#EXTVLCOPT:http-user-agent=Donate BTC 1MJox7hyXrXNqr1h4BpihqzHiz7Qy9hqZS
+http://tv.woobl.ru/match_futbol_2_hd/video.m3u8?token=test3445
+
+# --- Матч! Футбол 3 ---
+#EXTINF:-1 tvg-id="MatchFutbol3.ru" tvg-logo="https://i.imgur.com/P2ReH1u.png" tvg-name="Матч! Футбол 3" group-title="Спорт",Матч! Футбол 3 [1920x1080@25]
+#EXTVLCOPT:http-user-agent=Donate BTC 1MJox7hyXrXNqr1h4BpihqzHiz7Qy9hqZS
+http://tv.woobl.ru/match_futbol_3_hd/video.m3u8?token=test3445
+
+# --- Универ, новая общага ---
+#EXTINF:-1 tvg-name="VF Универ новая общага" group-title="Развлечения",Универ новая общага [1920x1080@24]
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://tv.woobl.ru:9090/channel/n6d1e893c/index.m3u8?q=054a8d5e360233783eb42f6912745209
+
+# --- Универ ---
+#EXTINF:-1 tvg-name="VF Универ" group-title="Развлечения",Универ [1920x1080@24]
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://185.234.59.200:9090/channel/6d5a11a3/index.m3u8?q=054a8d5e360233783eb42f6912745209
+
+# --- Саша Таня ---
+#EXTINF:-1 tvg-name="VF Саша Таня" group-title="Развлечения",Саша Таня [1920x1080@24]
+#EXTVLCOPT:http-user-agent=Donate BTC 1MJox7hyXrXNqr1h4BpihqzHiz7Qy9hqZS
+http://tv.woobl.ru:9090/channel/1ad1dc5b/index.m3u8?q=054a8d5e360233783eb42f6912745209
+
+# --- Сваты ---
+#EXTINF:-1 tvg-name="VF Сваты" group-title="Развлечения",Сваты [1920x1080@24]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://tv.woobl.ru:9090/channel/1c2bef24/index.m3u8?q=054a8d5e360233783eb42f6912745209
+
+# --- Реальне пацаны ---
+#EXTINF:-1 tvg-name="VF Реальные пацаны" group-title="Развлечения",Реальные пацаны [1920x1080@24]
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://185.234.59.200:9090/channel/3c4b5f0a/index.m3u8?q=054a8d5e360233783eb42f6912745209
+
+# --- Гарри Потер ---
+#EXTINF:-1 tvg-name="VF Гарри Поттер" group-title="Развлечения",Гарри Поттер [1920x1080@24]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://185.234.59.200:9090/channel/75b2c293/index.m3u8?q=054a8d5e360233783eb42f6912745209
