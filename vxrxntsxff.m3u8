@@ -21,11 +21,11 @@ http://river-1.rutube.ru/stream/genetta-419.ntv.rutube.ru/40qbwWRYGi9-G-vxTNI-hA
 http://river-1.rutube.ru/stream/genetta-319.m9.rutube.ru/dbp4Z9n0SIVVafOwdp_osQ/1778232903/5c9327074e25ca86f3111d4085cbbb65/720p_stream.m3u8
 
 # --- Cartoon Network ---
-#EXTINF:-1 tvg-id="CartoonNetwork.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg" group-title="Детские",Cartoon Network
+#EXTINF:-1 tvg-name="CartoonNetwork.ru" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/6/63/Cartoon_Network_2004_Red.png/revision/latest?cb=20180823052720" group-title="Детские",Cartoon Network
 http://s1.merlive.am/CartoonNetwork/index.m3u8
 
 # --- Nickelodeon ---
-#EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Nickelodeon_2023_logo_%28short_name%2C_horizontal%29.svg" group-title="Детские",Nickelodeon HD
+#EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="https://static.wikia.nocookie.net/nickelodeon/images/7/7e/2023_Nick_3D.png/revision/latest?cb=20240725134816" group-title="Детские",Nickelodeon HD
 http://tmptv.sunduk.tv/CH37/index.m3u8
 
 # --- JTX Online ---
@@ -45,7 +45,7 @@ http://tv.woobl.ru:9090/channel/2350f52f/index.m3u8?q=054a8d5e360233783eb42f6912
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 
 # --- КХЛ ---
-#EXTINF:-1 tvg-id="KHLPrime.ru" tvg-logo="https://i.imgur.com/pwxT0ON.png" tvg-name="KHL Prime" group-title="Спорт",KHL Prime
+#EXTINF:-1 tvg-name="KHLPrime.ru" tvg-logo="https://i.imgur.com/pwxT0ON.png" group-title="Спорт",KHL Prime
 http://tmptv.sunduk.tv/CH293/index.m3u8
 
 # --- Матч! ---
