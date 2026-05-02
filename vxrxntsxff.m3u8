@@ -1,48 +1,42 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/ru/epg.xml"
+#EXTM3U
 
-# ==========================================
-# РАЗВЛЕКАТЕЛЬНЫЕ И ФЕДЕРАЛЬНЫЕ КАНАЛЫ
-# ==========================================
+# --- Пятница! ---
+#EXTINF:-1 tvg-name="Pyatnitsa" group-title="Развлечения",Пятница! HD
+http-referrer="https://rutube.ru/" http-user-agent="Mozilla/5.0",https://salam-kem-88.rtbcdn.ru/dive/river-6-604.rtbcdn.ru/fHb1tnYaY3A9meDJW0qrfQ/stream/genetta-302.m9.rutube.ru/o3TywfBiGMMxapeOUblraQ/1778222069/d90aa86cc5b1d4a7b310c85debcee474/1080p_stream.m3u8
 
-# --- Пятница! (Rutube CDN) ---
-#EXTINF:-1 tvg-name="Pyatnitsa" group-title="Развлечения" http-referrer="https://rutube.ru/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Пятница! HD
-https://salam-kem-88.rtbcdn.ru/dive/river-6-604.rtbcdn.ru/fHb1tnYaY3A9meDJW0qrfQ/stream/genetta-302.m9.rutube.ru/o3TywfBiGMMxapeOUblraQ/1778222069/d90aa86cc5b1d4a7b310c85debcee474/1080p_stream.m3u8
-
-# --- 2x2 (Rutube CDN) ---
-#EXTINF:-1 tvg-name="2x2" group-title="Развлечения" http-referrer="https://rutube.ru/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",2x2 HD
+# --- 2x2 ---
+#EXTINF:-1 tvg-name="2x2" group-title="Развлечения",2x2 HD
 https://salam-kem-88.rtbcdn.ru/dive/river-6-605.rtbcdn.ru/GULI2rMhDI13cLNDA7hwKA/stream/genetta-321.m9.rutube.ru/dzie6WGnTtRvAgv-H657-g/1778222779/3d049e88a9b8dc64f4654d712e252d2c/1080p_stream.m3u8
 
-# --- Первый канал (1TV Official HLS) ---
-#EXTINF:-1 tvg-name="Первый канал" group-title="Федеральные" http-referrer="https://www.1tv.ru/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Первый канал HD
-https://mobdrm.1tv.ru/hls-live2/streams/1tv/1tv.m3u8?cdn=https://cdn10.1internet.tv&netprav=/hls-vod2/streams/1tv/internet-not-allowed-,350,950,3800,.mp4.urlset/master.m3u8&e=1777619386
+# --- Первый канал ---
+#EXTINF:-1 tvg-name="Первый канал" group-title="Федеральные",Первый канал HD
+http-referrer="https://www.1tv.ru/" http-user-agent="Mozilla/5.0",https://mobdrm.1tv.ru/hls-live2/streams/1tv/1tv.m3u8?cdn=https://cdn10.1internet.tv&netprav=/hls-vod2/streams/1tv/internet-not-allowed-,350,950,3800,.mp4.urlset/master.m3u8&e=1777619386
 
-# --- ТНТ (Rutube Live Stream) ---
-#EXTINF:-1 tvg-name="ТНТ" group-title="Развлечения" http-referrer="https://rutube.ru/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",ТНТ HD
-https://bl.rutube.ru/livestream/f02b63bc8f0ed4dba04bbfce4a1119c5/index.m3u8?s=wxSxcT9LBxYExfoVNUYixA&e=2077666113&scheme=https
+# --- ТНТ ---
+#EXTINF:-1 tvg-name="ТНТ" group-title="Развлечения",ТНТ HD
+http-referrer="https://rutube.ru/" http-user-agent="Mozilla/5.0",https://bl.rutube.ru/livestream/f02b63bc8f0ed4dba04bbfce4a1119c5/index.m3u8?s=wxSxcT9LBxYExfoVNUYixA&e=2077666113&scheme=https
 
-# --- Телеканал Ю (Rutube Stream) ---
-#EXTINF:-1 tvg-id="yu" tvg-name="Ю" group-title="Развлечения" http-referrer="https://rutube.ru/",Ю HD
+# --- Телеканал Ю ---
+#EXTINF:-1 tvg-name="Ю" group-title="Развлечения",Ю HD
 http://river-1.rutube.ru/stream/genetta-319.m9.rutube.ru/dbp4Z9n0SIVVafOwdp_osQ/1778232903/5c9327074e25ca86f3111d4085cbbb65/720p_stream.m3u8
 
-# ==========================================
-# ДЕТСКИЕ КАНАЛЫ
-# ==========================================
-
-# --- Cartoon Network (Merlive) ---
-# Внимание: HTTP ссылка. Включите "Allow Insecure Content" в настройках плеера.
+# --- Cartoon Network ---
 #EXTINF:-1 tvg-name="Cartoon Network" group-title="Детские",Cartoon Network HD
 http://s1.merlive.am/CartoonNetwork/index.m3u8
 
-# --- Nickelodeon (TmpTV) ---
-# Внимание: HTTP ссылка. Может требовать обновления токена.
-#EXTINF:-1 tvg-id="Nickelodeon.ru" tvg-name="Nickelodeon Россия" group-title="Детские",Nickelodeon HD
+# --- Nickelodeon ---
+#EXTINF:-1 tvg-name="Nickelodeon" group-title="Детские",Nickelodeon HD
 http://tmptv.sunduk.tv/CH37/index.m3u8
 
 # --- JTX Online ---
 #EXTINF:-1 tvg-name="JTX Online" group-title="Детские",JTX Online HD
 https://live.jtx-online.ru/memfs/e30ea533-4abf-4a88-91bc-73744ecfd06f.m3u8
 
-# --- Скуби-Ду (Woobl) ---
+# --- Кухня ТВ ---
+#EXTINF:-1 tvg-name="Кухня" group-title="Развлечения",Кухня HD
+http://tv.woobl.ru:9090/channel/1bd1532a/index.m3u8?q=054a8d5e360233783eb42f6912745209
+
+# --- Скуби-Ду ---
 #EXTINF:-1 tvg-name="Скуби-Ду" group-title="Детские",Скуби-Ду HD
 http://tv.woobl.ru:9090/channel/2350f52f/index.m3u8?q=054a8d5e360233783eb42f6912745209
 
@@ -50,47 +44,35 @@ http://tv.woobl.ru:9090/channel/2350f52f/index.m3u8?q=054a8d5e360233783eb42f6912
 #EXTINF:-1 tvg-name="Чип и Дейл" group-title="Детские",Чип и Дейл HD
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 
-# ==========================================
-# СПОРТИВНЫЕ КАНАЛЫ
-# ==========================================
-
-# --- КХЛ ТВ ---
-#EXTINF:-1 tvg-id="KHL.ru" tvg-name="КХЛ" group-title="Спорт",КХЛ HD
+# --- КХЛ ---
+#EXTINF:-1 tvg-name="КХЛ" group-title="Спорт",КХЛ HD
 http://31.148.48.15/KHL_TV/index.m3u8
 
-# --- Матч! (Официальный поток) ---
-#EXTINF:-1 tvg-id="Match.ru" tvg-name="Матч!" group-title="Спорт",Матч! HD
+# --- Матч! ---
+#EXTINF:-1 tvg-name="Матч!" group-title="Спорт",Матч! HD
 http://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
 
-# --- Okko Прайм Спорт (Woobl) ---
+# --- Okko Прайм Спорт ---
 #EXTINF:-1 tvg-name="Okko Прайм Спорт" group-title="Спорт",Okko Прайм Спорт HD
 http://tv.woobl.ru/okko_praym_sport_hd/video.m3u8?token=test3445
 
-# --- Матч! Премьер (Woobl) ---
+# --- Матч! Премьер ---
 #EXTINF:-1 tvg-name="Матч! Премьер" group-title="Спорт",Матч! Премьер HD
 http://tv.woobl.ru/match_premier_hd/video.m3u8?token=test3445
 
-# --- Матч! Футбол 1 (Woobl) ---
+# --- Матч! Футбол 1 ---
 #EXTINF:-1 tvg-name="Матч! Футбол 1" group-title="Спорт",Матч! Футбол 1 HD
 http://tv.woobl.ru/match_futbol_1_hd/video.m3u8?token=test3445
 
-# --- Матч! Футбол 2 (Woobl) ---
+# --- Матч! Футбол 2 ---
 #EXTINF:-1 tvg-name="Матч! Футбол 2" group-title="Спорт",Матч! Футбол 2 HD
 http://tv.woobl.ru/match_futbol_2_hd/video.m3u8?token=test3445
 
-# --- Матч! Футбол 3 (Woobl) ---
+# --- Матч! Футбол 3 ---
 #EXTINF:-1 tvg-name="Матч! Футбол 3" group-title="Спорт",Матч! Футбол 3 HD
 http://tv.woobl.ru/match_futbol_3_hd/video.m3u8?token=test3445
 
-# ==========================================
-# СЕРИАЛЫ И ФИЛЬМЫ (VF / Woobl / IP)
-# ==========================================
-
-# --- Кухня ТВ ---
-#EXTINF:-1 tvg-name="Кухня" group-title="Развлечения",Кухня HD
-http://tv.woobl.ru:9090/channel/1bd1532a/index.m3u8?q=054a8d5e360233783eb42f6912745209
-
-# --- Универ, новая общага ---
+# --- Универ Новая Общага ---
 #EXTINF:-1 tvg-name="Универ Новая Общага" group-title="Развлечения",Универ Новая Общага HD
 http://tv.woobl.ru:9090/channel/n6d1e893c/index.m3u8?q=054a8d5e360233783eb42f6912745209
 
@@ -110,6 +92,6 @@ http://tv.woobl.ru:9090/channel/1c2bef24/index.m3u8?q=054a8d5e360233783eb42f6912
 #EXTINF:-1 tvg-name="Реальные Пацаны" group-title="Развлечения",Реальные Пацаны HD
 http://185.234.59.200:9090/channel/3c4b5f0a/index.m3u8?q=054a8d5e360233783eb42f6912745209
 
-# --- Гарри Поттер (Марафон) ---
+# --- Гарри Поттер ---
 #EXTINF:-1 tvg-name="Гарри Поттер" group-title="Развлечения",Гарри Поттер HD
 http://185.234.59.200:9090/channel/75b2c293/index.m3u8?q=054a8d5e360233783eb42f6912745209
