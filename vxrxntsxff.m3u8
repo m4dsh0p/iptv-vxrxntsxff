@@ -10,7 +10,7 @@ https://salam-kem-88.rtbcdn.ru/dive/river-6-605.rtbcdn.ru/GULI2rMhDI13cLNDA7hwKA
 
 # --- Первый канал ---
 #EXTINF:-1 tvg-name="Первый канал" tvg-logo="https://i.imgur.com/RUSX0rX.png" tvg-name="Первый канал" group-title="Федеральные",Первый канал
-http://api.peers.tv/timeshift/1kanal_hd/16/playlist.m3u8?
+http://31.148.48.15/Pervii_kanal_HD/index.m3u8
 
 # --- ТНТ ---
 #EXTINF:-1 tvg-name="ТНТ" tvg-logo="https://i.imgur.com/T4A6rEI.png" group-title="Развлечения",ТНТ HD
@@ -21,15 +21,15 @@ http-referrer="https://rutube.ru/" http-user-agent="Mozilla/5.0",https://bl.rutu
 http://river-1.rutube.ru/stream/genetta-319.m9.rutube.ru/dbp4Z9n0SIVVafOwdp_osQ/1778232903/5c9327074e25ca86f3111d4085cbbb65/720p_stream.m3u8
 
 # --- Cartoon Network ---
-#EXTINF:-1 tvg-id="CartoonNetwork.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="Детский",Cartoon Network
+#EXTINF:-1 tvg-id="CartoonNetwork.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg" group-title="Детские",Cartoon Network
 http://s1.merlive.am/CartoonNetwork/index.m3u8
 
 # --- Nickelodeon ---
-#EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/512px-Nickelodeon_2009_logo.svg.png" group-title="Детские",Nickelodeon HD
+#EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Nickelodeon_2023_logo_%28short_name%2C_horizontal%29.svg" group-title="Детские",Nickelodeon HD
 http://tmptv.sunduk.tv/CH37/index.m3u8
 
 # --- JTX Online ---
-#EXTINF:-1 tvg-name="JTX Online" group-title="Детские",JTX Online HD
+#EXTINF:-1 tvg-name="JTX Online" tvg-logo="https://jtx-online.ru/logo/logo.png" "group-title="Детские",JTX Online HD
 https://live.jtx-online.ru/memfs/e30ea533-4abf-4a88-91bc-73744ecfd06f.m3u8
 
 # --- Кухня ТВ ---
@@ -37,15 +37,15 @@ https://live.jtx-online.ru/memfs/e30ea533-4abf-4a88-91bc-73744ecfd06f.m3u8
 http://tv.woobl.ru:9090/channel/1bd1532a/index.m3u8?q=054a8d5e360233783eb42f6912745209
 
 # --- Скуби-Ду ---
-#EXTINF:-1 tvg-name="Скуби-Ду" group-title="Детские",Скуби-Ду HD
+#EXTINF:-1 tvg-name="Скуби-Ду" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Scooby_doo_logo.png" group-title="Детские",Скуби-Ду HD
 http://tv.woobl.ru:9090/channel/2350f52f/index.m3u8?q=054a8d5e360233783eb42f6912745209
 
 # --- Чип и Дейл ---
-#EXTINF:-1 tvg-name="Чип и Дейл" group-title="Детские",Чип и Дейл HD
+#EXTINF:-1 tvg-name="Чип и Дейл" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/1/11/Chip%27n_Dale_Rescue_Rangers_logo.jpg" group-title="Детские",Чип и Дейл HD
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 
 # --- КХЛ ---
-#EXTINF:-1 tvg-id="KHLPrime.ru" tvg-logo="https://i.imgur.com/pwxT0ON.png" tvg-name="KHL Prime" group-title="Спорт",KHL Prime
+#EXTINF:-1 tvg-id="KHLPrime.ru" tvg-logo="https://i.imgur.com/pwxT0ON.png" tvg-name="KHL Prime" group-title="Спорт",KHL Prime [1920x1080@25]
 http://tmptv.sunduk.tv/CH293/index.m3u8
 
 # --- Матч! ---
@@ -53,7 +53,7 @@ http://tmptv.sunduk.tv/CH293/index.m3u8
 http://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
 
 # --- Okko Прайм Спорт ---
-#EXTINF:-1 tvg-name="Okko Прайм Спорт" group-title="Спорт",Okko Прайм Спорт HD
+#EXTINF:-1 tvg-name="Okko Прайм Спорт" tvg-logo="https://xml-epgservice.cdnvideo.ru/EPGService/hs/xmldata/852f4b92-cae5-463e-aad6-cd8844c5a49/logo/8985.png" group-title="Спорт",Okko Прайм Спорт HD
 http://tv.woobl.ru/okko_praym_sport_hd/video.m3u8?token=test3445
 
 # --- Матч! Премьер ---
@@ -73,25 +73,25 @@ http://tv.woobl.ru/match_futbol_2_hd/video.m3u8?token=test3445
 http://tv.woobl.ru/match_futbol_3_hd/video.m3u8?token=test3445
 
 # --- Универ Новая Общага ---
-#EXTINF:-1 tvg-name="Универ Новая Общага" group-title="Развлечения",Универ Новая Общага HD
+#EXTINF:-1 tvg-name="Универ Новая Общага" tvg-logo="https://thumbs.dfs.ivi.ru/storage0/contents/6/3/76650cd45f4425b3ed5939bd33623d.jpg/x200/?q=85&mod=to_webp" group-title="Развлечения",Универ Новая Общага HD
 http://tv.woobl.ru:9090/channel/n6d1e893c/index.m3u8?q=054a8d5e360233783eb42f6912745209
 
 # --- Универ ---
-#EXTINF:-1 tvg-name="Универ" group-title="Развлечения",Универ HD
+#EXTINF:-1 tvg-name="Универ" tvg-logo="https://toplogos.ru/images/logo-univer.jpg" group-title="Развлечения",Универ HD
 http://185.234.59.200:9090/channel/6d5a11a3/index.m3u8?q=054a8d5e360233783eb42f6912745209
 
 # --- Саша Таня ---
-#EXTINF:-1 tvg-name="Саша Таня" group-title="Развлечения",Саша Таня HD
+#EXTINF:-1 tvg-name="Саша Таня" tvg-logo="https://st.frame.uz/files/contents/7548/covertext/bd3ad67f-07ef-424e-972f-a65615c50791_Uz.png" group-title="Развлечения",Саша Таня HD
 http://tv.woobl.ru:9090/channel/1ad1dc5b/index.m3u8?q=054a8d5e360233783eb42f6912745209
 
 # --- Сваты ---
-#EXTINF:-1 tvg-name="Сваты" group-title="Развлечения",Сваты HD
+#EXTINF:-1 tvg-name="Сваты" tvg-logo="https://thumbs.dfs.ivi.ru/storage0/contents/a/7/5bf4707188462180cf5abb04182a7f.png/x200/?q=85" group-title="Развлечения",Сваты HD
 http://tv.woobl.ru:9090/channel/1c2bef24/index.m3u8?q=054a8d5e360233783eb42f6912745209
 
 # --- Реальные Пацаны ---
-#EXTINF:-1 tvg-name="Реальные Пацаны" group-title="Развлечения",Реальные Пацаны HD
+#EXTINF:-1 tvg-name="Реальные Пацаны" tvg-logo="https://tmsearch.onlinepatent.ru/images/95f/95fae908-84e9-4bc6-b100-3f7a6656b516.jpg" group-title="Развлечения",Реальные Пацаны HD
 http://185.234.59.200:9090/channel/3c4b5f0a/index.m3u8?q=054a8d5e360233783eb42f6912745209
 
 # --- Гарри Поттер ---
-#EXTINF:-1 tvg-name="Гарри Поттер" group-title="Развлечения",Гарри Поттер HD
+#EXTINF:-1 tvg-name="Гарри Поттер" tvg-logo="https://i.pinimg.com/736x/8b/b3/99/8bb3991dca3078f26bab8d07770f8d33.jpg" group-title="Развлечения",Гарри Поттер HD
 http://185.234.59.200:9090/channel/75b2c293/index.m3u8?q=054a8d5e360233783eb42f6912745209
