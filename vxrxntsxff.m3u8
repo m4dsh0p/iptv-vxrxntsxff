@@ -1,8 +1,8 @@
 #EXTM3U
 
 # --- Пятница! ---
-#EXTINF:-1 tvg-name="Pyatnitsa" group-title="Развлечения",Пятница! HD
-http-referrer="https://rutube.ru/" http-user-agent="Mozilla/5.0",https://salam-kem-88.rtbcdn.ru/dive/river-6-604.rtbcdn.ru/fHb1tnYaY3A9meDJW0qrfQ/stream/genetta-302.m9.rutube.ru/o3TywfBiGMMxapeOUblraQ/1778222069/d90aa86cc5b1d4a7b310c85debcee474/1080p_stream.m3u8
+#EXTINF:-1 tvg-name="Пятница!" group-title="Развлечения",Пятница! HD
+https://stream.yandex.ru/kal/pyatnitsa/pyatnitsa.m3u8
 
 # --- 2x2 ---
 #EXTINF:-1 tvg-name="2x2" group-title="Развлечения",2x2 HD
@@ -46,7 +46,7 @@ http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 
 # --- КХЛ ---
 #EXTINF:-1 tvg-name="КХЛ" group-title="Спорт",КХЛ HD
-http://31.148.48.15/KHL_TV/index.m3u8
+https://khl-tv.akamaized.net/hls/live/2004645/KHL/master.m3u8
 
 # --- Матч! ---
 #EXTINF:-1 tvg-name="Матч!" group-title="Спорт",Матч! HD
