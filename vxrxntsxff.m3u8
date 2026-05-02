@@ -45,7 +45,7 @@ http://tv.woobl.ru:9090/channel/2350f52f/index.m3u8?q=054a8d5e360233783eb42f6912
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 
 # --- КХЛ ---
-#EXTINF:-1 tvg-id="KHLPrime.ru" tvg-logo="https://i.imgur.com/pwxT0ON.png" tvg-name="KHL Prime" group-title="Спорт",KHL Prime [1920x1080@25]
+#EXTINF:-1 tvg-id="KHLPrime.ru" tvg-logo="https://i.imgur.com/pwxT0ON.png" tvg-name="KHL Prime" group-title="Спорт",KHL Prime
 http://tmptv.sunduk.tv/CH293/index.m3u8
 
 # --- Матч! ---
