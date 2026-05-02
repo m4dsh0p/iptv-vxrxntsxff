@@ -97,5 +97,5 @@ http://185.234.59.200:9090/channel/3c4b5f0a/index.m3u8?q=054a8d5e360233783eb42f6
 http://185.234.59.200:9090/channel/75b2c293/index.m3u8?q=054a8d5e360233783eb42f6912745209
 
 # --- Гриффины ---
-#EXTINF:-1 tvg-id="FamilyGuy.ru" tvg-name="Гриффины" tvg-logo="https://iptvx.one/picons/griffiny.png" group-title="Развлечения",Гриффины HD
-http-referrer="https://vk.com/" http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",https://vkvsd230.okcdn.ru/hls/7185222732416.m3u8/sig/GFVwhf2lgY8/expires/1777824575770/srcIp/46.181.144.144/urls/185.226.55.72/clientType/13/srcAg/CHROME_MAC/mid/8134416411520/video.m3u8?p
+#EXTINF:-1 tvg-id="FamilyGuy.ru" tvg-name="Гриффины" group-title="Развлечения" ,Family Guy HD
+http://u9trto3l.siauliairsavlt.org/iptv/ZPDAH86M8U3YGRC8WC6A855Q/19414/index.m3u
