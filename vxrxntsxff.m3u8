@@ -4,6 +4,10 @@
 #EXTINF:-1 tvg-id="Friday.ru" tvg-name="Пятница!" tvg-logo="https://i.imgur.com/UfmlXxe.png" group-title="Развлечения",Пятница! HD
 http://river-1.rutube.ru/stream/genetta-316.m9.rutube.ru/DSx7cYujcwZQcJiQzcs3rw/1778232886/9f87a9a0cecbe773be6fddcbd93585ac/1080p_stream.m3u8
 
+# --- СТС ---
+#EXTINF: -1 tvg-id="STS.ru" tvg-name="СТС" tvg-logo="" group-title="Развлечения",СТС HD
+http://be7b2975.kazaktelekom.com/iptv/8GZZTZ8XQFZG4X/6303/index.m3u8
+
 # --- 2x2 ---
 #EXTINF:-1 tvg-id="2x2.ru" tvg-name="2x2" tvg-logo="https://i.imgur.com/fhQFLEl.png" group-title="Развлечения",2x2 HD
 https://salam-kem-88.rtbcdn.ru/dive/river-6-605.rtbcdn.ru/GULI2rMhDI13cLNDA7hwKA/stream/genetta-321.m9.rutube.ru/dzie6WGnTtRvAgv-H657-g/1778222779/3d049e88a9b8dc64f4654d712e252d2c/1080p_stream.m3u8
@@ -26,7 +30,7 @@ http://s1.merlive.am/CartoonNetwork/index.m3u8
 
 # --- Nickelodeon ---
 #EXTINF:-1 tvg-id="Nickelodeon.ru" tvg-name="Nickelodeon" tvg-logo="https://static.wikia.nocookie.net/nickelodeon/images/7/7e/2023_Nick_3D.png/revision/latest?cb=20240725134816" group-title="Детские",Nickelodeon HD
-http://tmptv.sunduk.tv/CH37/index.m3u8
+http://be7b2975.kazaktelekom.com/iptv/8GZZTZ8XQFZG4X/9015/index.m3u8
 
 # --- JTX Online ---
 #EXTINF:-1 tvg-id="JTX.ru" tvg-name="JTX Online" tvg-logo="https://jtx-online.ru/logo/logo.png" group-title="Детские",JTX Online HD
@@ -34,15 +38,11 @@ https://live.jtx-online.ru/memfs/e30ea533-4abf-4a88-91bc-73744ecfd06f.m3u8
 
 # --- Кухня ТВ ---
 #EXTINF:-1 tvg-id="Kitchen.ru" tvg-name="Кухня" tvg-logo="https://i.imgur.com/7jxZnuS.png" group-title="Развлечения",Кухня HD
-http://tv.woobl.ru:9090/channel/1bd1532a/index.m3u8?q=054a8d5e360233783eb42f6912745209
+http://be7b2975.kazaktelekom.com/iptv/8GZZTZ8XQFZG4X/18199/index.m3u8
 
 # --- Скуби-Ду ---
 #EXTINF:-1 tvg-id="ScoobyDoo.ru" tvg-name="Скуби-Ду" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Scooby_doo_logo.png" group-title="Детские",Скуби-Ду HD
-http://tv.woobl.ru:9090/channel/2350f52f/index.m3u8?q=054a8d5e360233783eb42f6912745209
-
-# --- Чип и Дейл ---
-#EXTINF:-1 tvg-id="ChipNDale.ru" tvg-name="Чип и Дейл" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/1/11/Chip%27n_Dale_Rescue_Rangers_logo.jpg" group-title="Детские",Чип и Дейл HD
-http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
+http://be7b2975.kazaktelekom.com/iptv/8GZZTZ8XQFZG4X/17007/index.m3u8
 
 # --- КХЛ ---
 #EXTINF:-1 tvg-id="KHLPrime.ru" tvg-name="KHL Prime" tvg-logo="https://i.imgur.com/pwxT0ON.png" group-title="Спорт",KHL Prime
@@ -54,47 +54,43 @@ http://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_
 
 # --- Okko Прайм Спорт ---
 #EXTINF:-1 tvg-id="OkkoSport.ru" tvg-name="Okko Прайм Спорт" tvg-logo="https://xml-epgservice.cdnvideo.ru/EPGService/hs/xmldata/852f4b92-cae5-463e-aad6-cd8844c5a49/logo/8985.png" group-title="Спорт",Okko Прайм Спорт HD
-http://tv.woobl.ru/okko_praym_sport_hd/video.m3u8?token=test3445
+http://be7b2975.kazaktelekom.com/iptv/8GZZTZ8XQFZG4X/20135/index.m3u8
 
 # --- Матч! Премьер ---
 #EXTINF:-1 tvg-id="MatchPremier.ru" tvg-name="Матч! Премьер" tvg-logo="https://i.imgur.com/GQPyHYK.png" group-title="Спорт",Матч! Премьер HD
-http://tv.woobl.ru/match_premier_hd/video.m3u8?token=test3445
+http://be7b2975.kazaktelekom.com/iptv/8GZZTZ8XQFZG4X/2414/index.m3u8
 
 # --- Матч! Футбол 1 ---
 #EXTINF:-1 tvg-id="MatchFutbol1.ru" tvg-name="Матч! Футбол 1" tvg-logo="https://i.imgur.com/XS2BB02.png" group-title="Спорт",Матч! Футбол 1 HD
-http://tv.woobl.ru/match_futbol_1_hd/video.m3u8?token=test3445
+http://be7b2975.kazaktelekom.com/iptv/8GZZTZ8XQFZG4X/2407/index.m3u8
 
 # --- Матч! Футбол 2 ---
 #EXTINF:-1 tvg-id="MatchFutbol2.ru" tvg-name="Матч! Футбол 2" tvg-logo="https://i.imgur.com/WhdGfSo.png" group-title="Спорт",Матч! Футбол 2 HD
-http://tv.woobl.ru/match_futbol_2_hd/video.m3u8?token=test3445
+http://be7b2975.kazaktelekom.com/iptv/8GZZTZ8XQFZG4X/2420/index.m3u8
 
 # --- Матч! Футбол 3 ---
 #EXTINF:-1 tvg-id="MatchFutbol3.ru" tvg-name="Матч! Футбол 3" tvg-logo="https://i.imgur.com/P2ReH1u.png" group-title="Спорт",Матч! Футбол 3 HD
-http://tv.woobl.ru/match_futbol_3_hd/video.m3u8?token=test3445
+http://be7b2975.kazaktelekom.com/iptv/8GZZTZ8XQFZG4X/2408/index.m3u8
 
 # --- Универ Новая Общага ---
 #EXTINF:-1 tvg-id="UniverNew.ru" tvg-name="Универ Новая Общага" tvg-logo="https://thumbs.dfs.ivi.ru/storage0/contents/6/3/76650cd45f4425b3ed5939bd33623d.jpg/x200/?q=85&mod=to_webp" group-title="Развлечения",Универ Новая Общага HD
-http://tv.woobl.ru:9090/channel/n6d1e893c/index.m3u8?q=054a8d5e360233783eb42f6912745209
+http://be7b2975.kazaktelekom.com/iptv/8GZZTZ8XQFZG4X/17013/index.m3u8
 
 # --- Универ ---
 #EXTINF:-1 tvg-id="Univer.ru" tvg-name="Универ" tvg-logo="https://toplogos.ru/images/logo-univer.jpg" group-title="Развлечения",Универ HD
-http://185.234.59.200:9090/channel/6d5a11a3/index.m3u8?q=054a8d5e360233783eb42f6912745209
+http://be7b2975.kazaktelekom.com/iptv/8GZZTZ8XQFZG4X/13084/index.m3u8
 
 # --- Саша Таня ---
 #EXTINF:-1 tvg-id="SashaTanya.ru" tvg-name="Саша Таня" tvg-logo="https://st.frame.uz/files/contents/7548/covertext/bd3ad67f-07ef-424e-972f-a65615c50791_Uz.png" group-title="Развлечения",Саша Таня HD
-http://tv.woobl.ru:9090/channel/1ad1dc5b/index.m3u8?q=054a8d5e360233783eb42f6912745209
-
-# --- Сваты ---
-#EXTINF:-1 tvg-id="Svaty.ru" tvg-name="Сваты" tvg-logo="https://thumbs.dfs.ivi.ru/storage0/contents/a/7/5bf4707188462180cf5abb04182a7f.png/x200/?q=85" group-title="Развлечения",Сваты HD
-http://tv.woobl.ru:9090/channel/1c2bef24/index.m3u8?q=054a8d5e360233783eb42f6912745209
+http://be7b2975.kazaktelekom.com/iptv/8GZZTZ8XQFZG4X/17008/index.m3u8
 
 # --- Реальные Пацаны ---
 #EXTINF:-1 tvg-id="RealBoys.ru" tvg-name="Реальные Пацаны" tvg-logo="https://tmsearch.onlinepatent.ru/images/95f/95fae908-84e9-4bc6-b100-3f7a6656b516.jpg" group-title="Развлечения",Реальные Пацаны HD
-http://185.234.59.200:9090/channel/3c4b5f0a/index.m3u8?q=054a8d5e360233783eb42f6912745209
+http://be7b2975.kazaktelekom.com/iptv/8GZZTZ8XQFZG4X/17015/index.m3u8
 
 # --- Гарри Поттер ---
 #EXTINF:-1 tvg-id="HarryPotter.ru" tvg-name="Гарри Поттер" tvg-logo="https://i.pinimg.com/736x/8b/b3/99/8bb3991dca3078f26bab8d07770f8d33.jpg" group-title="Развлечения",Гарри Поттер HD
-http://185.234.59.200:9090/channel/75b2c293/index.m3u8?q=054a8d5e360233783eb42f6912745209
+http://be7b2975.kazaktelekom.com/iptv/8GZZTZ8XQFZG4X/14230/index.m3u8
 
 # --- Гриффины ---
 #EXTINF:-1 tvg-id="FamilyGuy.ru" tvg-name="Гриффины" tvg-logo="https://iptvx.one/picons/griffiny.png" group-title="Развлечения",Гриффины HD
@@ -102,4 +98,13 @@ http://be7b2975.kazaktelekom.com/iptv/8GZZTZ8XQFZG4X/19414/index.m3u8
 
 # --- Симпсоны ---
 #EXTINF:-1 tvg-id="Simpsons.ru" tvg-name="Симпсоны" tvg-logo="https://iptvx.one/picons/simpsons.png" group-title="Развлечения",Симпсоны HD
-http://be7b2975.kazaktelekom.com/iptv/8GZZTZ8XQFZG4X/15101/index.m3u8
+http://be7b2975.kazaktelekom.com/iptv/8GZZTZ8XQFZG4X/15111/index.m3u8
+
+# --- Бесстыжие ---
+#EXTINF: -1 tvg-id="Shameless.ru" tvg-name="Бесстыжие" tvg-logo="" group-title="Развлечения",Бесстыжие HD
+http://be7b2975.kazaktelekom.com/iptv/8GZZTZ8XQFZG4X/10075/index.m3u8
+
+# --- Интерны ---
+#EXTINF: -1 tvg-id="Interny.ru" tvg-name="Интерны" tvg-logo="" group-title="Развлечения",Интерны
+http://be7b2975.kazaktelekom.com/iptv/8GZZTZ8XQFZG4X/11060/index.m3u8
+
